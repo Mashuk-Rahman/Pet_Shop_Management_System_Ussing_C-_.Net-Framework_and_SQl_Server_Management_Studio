@@ -1,1 +1,2 @@
-# Pet_Shop_Management_System_Ussing_C-_.Net-Framework_and_SQl_Server_Management_Studio
+# Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server 
+este proyecto fue realizado siguiendo el siguiente video : https://www.youtube.com/watch?v=qKkSz92w6pk&ab_channel=MyCodeSpace
